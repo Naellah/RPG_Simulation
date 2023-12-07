@@ -40,8 +40,7 @@ public class OptionsManager : MonoBehaviour
     {
         PlayerPrefs.SetInt("BlueKnightCount", numberOfKnightsBlue);
         PlayerPrefs.SetInt("RedKnightCount", numberOfKnightsRed);
-        PlayerPrefs.SetInt("BlueArcherCount", numberOfArchersBlue);
-        PlayerPrefs.SetInt("RedArcherCount", numberOfArchersRed);
+       
 
         // Chargez la scène de jeu
         SceneManager.LoadSceneAsync("Game");

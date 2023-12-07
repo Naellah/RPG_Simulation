@@ -69,7 +69,6 @@
     <Compile Include="Assets\Scripts\Camera_actu.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
     <Compile Include="Assets\RainMaker\Prefab\BaseRainScript.cs" />
-    <Compile Include="Assets\FourEvilDragonsHP\Scripts\Attack_dragon.cs" />
     <Compile Include="Assets\Scripts\Flamme.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
     <Compile Include="Assets\!Microlight\MicroBar\Scripts\MicroBarAssetUtilities.cs" />

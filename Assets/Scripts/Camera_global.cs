@@ -102,10 +102,7 @@ public class CameraGlobal : MonoBehaviour
             {
                 PlayerPrefs.SetInt("KnightType", 0);
             }
-            else if (type == "Archer")
-            {
-                PlayerPrefs.SetInt("KnightType", 1);
-            }
+            
             if (color == "red")
             {
                 PlayerPrefs.SetInt("KnightColor", 0);  // 0 pour rouge

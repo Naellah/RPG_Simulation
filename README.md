@@ -2,15 +2,23 @@
 
 # RPG Simulation (Simulation de bataille entre chevaliers)
 
-Bienvenue dans RPG Simulation, un projet de simulation de bataille entre deux équipes de chevaliers rouges et bleus. Chaque chevalier est doté d'une intelligence artificielle unique, déterminant s'il est peureux, courageux, et influençant ses décisions lors des combats. L'objectif principal de ce projet est d'observer l'évolution d'une bataille dynamique où les chevaliers prennent des décisions stratégiques en fonction de leur personnalité.
+
+![RPG_game](Screen/RPG_game_1.png)
+
+Bienvenue dans RPG Simulation, un projet de simulation de bataille entre deux équipes de chevaliers rouges et bleus. Chaque chevalier est doté d'une intelligence artificielle, déterminant s'il est peureux, courageux, et influençant ses décisions lors des combats. L'objectif principal de ce projet est d'observer l'évolution d'une bataille dynamique où les chevaliers prennent des décisions stratégiques en fonction de leur personnalité.
 
 ## Présentation du Projet
 
-Les deux équipes de chevaliers se livrent à des combats animés, mettant en œuvre des mécanismes d'intelligence artificielle pour simuler des réactions réalistes. Chaque chevalier, en fonction de sa personnalité, peut choisir de s'engager courageusement dans le combat ou adopter une approche plus prudente. Ces décisions influent sur le déroulement de la bataille, créant des situations dynamiques et imprévisibles.
+![RPG_game](Screen/RPG_game.png)
+
+
+
+Les deux équipes de chevaliers se livrent à des combats, mettant en œuvre des mécanismes d'intelligence artificielle pour simuler des réactions réalistes. Chaque chevalier, en fonction de sa personnalité, peut choisir de s'engager courageusement dans le combat ou adopter une approche plus prudente. Les chevaliers se créer des groupes au fil de la partie pour ne pas se retouver se seul.
+Nous avons aussi décider d"ajouter de l'aléatoire dans le jeu avec un dragon qui parcours la carte et qui peut attaquer les chevaliers.
 
 ## Objectif
 
-L'objectif principal de RPG Simulation est d'observer comment différentes personnalités de chevaliers influent sur le résultat d'une bataille. En étudiant leurs choix tactiques, leurs décisions d'attaque ou de fuite, nous cherchons à comprendre comment ces caractéristiques individuelles contribuent à l'issue globale de la bataille.
+L'objectif principal de Simulation de RPG est d'observer comment différentes personnalités de chevaliers influent sur le résultat d'une bataille. En étudiant leurs choix tactiques, leurs décisions d'attaque ou de fuite, nous cherchons à comprendre comment ces caractéristiques individuelles contribuent à l'issue globale de la bataille.
 
 ## Comment Build le Projet
 
@@ -26,7 +34,7 @@ L'objectif principal de RPG Simulation est d'observer comment différentes perso
 2. Assurez-vous que les paramètres de build sont correctement configurés dans les paramètres de la plateforme cible.
 3. Appuyez sur "Play" pour lancer la simulation dans l'éditeur Unity ou sélectionnez "Build" pour générer une version autonome de l'application.
 
-N'hésitez pas à explorer les fonctionnalités de RPG Simulation et à ajuster les paramètres pour observer différentes stratégies de bataille entre les chevaliers rouges et bleus.
+
 
 ### Contact
 
