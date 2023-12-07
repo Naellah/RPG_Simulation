@@ -38,15 +38,16 @@ L'objectif principal de Simulation de RPG est d'observer comment différentes pe
 
 ## Liens Assets utilisés
 
-Lien pour les particules: https://assetstore.unity.com/packages/vfx/particles/particle-pack-127325
-Lien pour le dragon: https://assetstore.unity.com/packages/3d/characters/creatures/dragon-for-boss-monster-hp-79398
-Lien pour les coeurs: https://assetstore.unity.com/packages/3d/props/simple-gems-ultimate-animated-customizable-pack-73764 
-Lien pour la grêle: https://assetstore.unity.com/packages/vfx/particles/environment/hail-particles-pack-62038
-Lien pour la pluie: https://assetstore.unity.com/packages/vfx/particles/environment/rain-maker-2d-and-3d-rain-particle-system-for-unity-34938
-Lien pour DOTween: https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676
-Lien pour la barre de vie: https://assetstore.unity.com/packages/tools/gui/microbar-animated-health-bar-239154
-Lien pour les arbres et les fleurs: https://assetstore.unity.com/packages/3d/environments/fantasy-landscape-103573
+Lien pour les particules: https://assetstore.unity.com/packages/vfx/particles/particle-pack-127325  
+Lien pour le dragon: https://assetstore.unity.com/packages/3d/characters/creatures/dragon-for-boss-monster-hp-79398  
+Lien pour les coeurs: https://assetstore.unity.com/packages/3d/props/simple-gems-ultimate-animated-customizable-pack-73764   
+Lien pour la grêle: https://assetstore.unity.com/packages/vfx/particles/environment/hail-particles-pack-62038  
+Lien pour la pluie: https://assetstore.unity.com/packages/vfx/particles/environment/rain-maker-2d-and-3d-rain-particle-system-for-unity-34938  
+Lien pour DOTween: https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676  
+Lien pour la barre de vie: https://assetstore.unity.com/packages/tools/gui/microbar-animated-health-bar-239154  
+Lien pour les arbres et les fleurs: https://assetstore.unity.com/packages/3d/environments/fantasy-landscape-103573  
 Lien pour les arrières plans: https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
+
 
 ## Contact
 
